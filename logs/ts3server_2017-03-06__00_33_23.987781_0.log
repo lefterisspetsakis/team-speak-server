@@ -1,0 +1,9 @@
+﻿2017-03-06 00:33:23.988602|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.0.12.4 (2016-04-25 15:16:45)
+2017-03-06 00:33:23.994348|INFO    |ServerLibPriv |   |SystemInformation: Linux 4.4.0-62-generic #83-Ubuntu SMP Wed Jan 18 14:10:15 UTC 2017 x86_64 Binary: 64bit
+2017-03-06 00:33:24.054702|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2017-03-06 00:33:24.054748|INFO    |DatabaseQuery |   |dbPlugin version: 3.8.6
+2017-03-06 00:33:24.069713|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2017-03-06 00:33:24.109476|INFO    |ServerLibPriv |   |updated server query admin password
+2017-03-06 00:33:24.115538|WARNING |Accounting    |   |Unable to find valid license key, falling back to limited functionality
+2017-03-06 00:33:24.615829|ERROR   |Accounting    |   |local accounting reports an already running instance, instance will shutdown
+2017-03-06 00:33:24.615886|ERROR   |ServerLibPriv |   |Server() error while starting servermanager, error: instance limit reached

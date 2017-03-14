@@ -1,0 +1,7 @@
+﻿2017-03-05 23:26:42.266468|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2017-03-05 23:26:42.288616|INFO    |VirtualServer |1  |client 'server'(id:0) added privilege key for servergroup 'Server Admin'(id:6)
+2017-03-05 23:26:42.291340|WARNING |VirtualServer |1  |--------------------------------------------------------
+2017-03-05 23:26:42.292215|WARNING |VirtualServer |1  |ServerAdmin privilege key created, please use the line below
+2017-03-05 23:26:42.292236|WARNING |VirtualServer |1  |token=Ivt5MItjQhCTm74Wj+xuUiNpTU9azQrdUty+vygp
+2017-03-05 23:26:42.293137|WARNING |VirtualServer |1  |--------------------------------------------------------
+2017-03-06 00:07:56.434370|INFO    |VirtualServerBase|1  |stopped
