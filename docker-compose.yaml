@@ -1,0 +1,7 @@
+team-speak-server:
+  build: .
+  container_name: team-speak-server
+  working_dir: "/tss"
+
+  volumes:
+    - ".:/tss"
