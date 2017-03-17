@@ -1,7 +1,8 @@
-FROM ubuntu:16.04
+FROM ubuntu
 MAINTAINER Lefteris Spetsakis <lefteris.spetsakis@gmail.com>
 
-ADD . /tss
 WORKDIR /tss
+
+ADD ts3server* home/
 RUN chmod +x docker_bootstrap.sh
 RUN ./docker_bootstrap.sh
