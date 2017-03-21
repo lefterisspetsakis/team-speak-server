@@ -6,6 +6,8 @@ apt-get -y install wget
 apt-get -y install lbzip2
 apt-get -y install tar
 
+apt-get -y install apt-utils
+
 adduser --disabled-login --gecos ",,," teamspeak
 
 mkdir /home/tsdownloads/
